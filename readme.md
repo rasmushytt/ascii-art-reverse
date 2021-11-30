@@ -4,9 +4,7 @@ This program reverses ascii art text from a text file back to a normal string.
 
 #### Usage 
 
-go run . --reverse=[file.txt]
-
-EX: go run . --reverse=[example.txt]
+go run . --reverse=[example.txt]
 
 #### Creator
 rasmushytt
